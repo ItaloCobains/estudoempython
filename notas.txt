@@ -1,0 +1,4 @@
+ listaRafael,10,10,10,5
+felipe,10,10,5,5
+galeanni,0,10,5,5
+cesar,0,10,5,5

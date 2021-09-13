@@ -1,0 +1,1 @@
+[{' listaRafael': 8.75}, {'felipe': 7.5}, {'galeanni': 5.0}, {'cesar': 5.0}, {'': 0.0}]
